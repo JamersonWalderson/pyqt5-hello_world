@@ -11,8 +11,6 @@ Material usado como apoio:
     https://medium.com/@wilfilho/pyqt5-o-fantastico-mundo-das-guis-62914b1b39c1
     https://doc.qt.io/archives/qt-4.8/
     http://cta.if.ufrgs.br/projects/visuino/wiki/PyQt
-
-
 '''
 
 janela = QtWidgets.QApplication(sys.argv)
